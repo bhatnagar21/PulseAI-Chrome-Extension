@@ -1,4 +1,4 @@
-                              ⚡ PulseAI – AI-Powered Productivity & Focus Tracker⚡
+⚡ PulseAI – AI-Powered Productivity & Focus Tracker⚡
 
 ⚡ Boost your productivity with AI! Track tasks, focus sessions, and get motivational tips right in Chrome.
 
