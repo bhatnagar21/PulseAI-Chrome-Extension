@@ -1,6 +1,8 @@
 ⚡ PulseAI – AI-Powered Productivity & Focus Tracker⚡
 
+
 ⚡ Boost your productivity with AI! Track tasks, focus sessions, and get motivational tips right in Chrome.
+
 
 ✨ Features
 Feature	Description	Demo
@@ -9,10 +11,12 @@ Feature	Description	Demo
 🤖 AI Coach	Get motivational tips & productivity suggestions	GIF:
 🎉 Celebration Effect	Confetti + sound on task completion	GIF:
 
+
 💻 Tech Stack
 Frontend: HTML5, CSS3, JavaScript
 Chrome Extension: Manifest v3, Chrome APIs
 AI Integration: OpenAI API for motivational tips
+
 
 📂 Project Structure
 pulseAI-extension/
@@ -23,6 +27,7 @@ pulseAI-extension/
  ┣ icons/              # Toolbar & store icons
  ┣ assets/             # Optional: Images, GIFs, sounds
  ┗ README.md           # Project documentation
+
 
 🚀 How to Install
 Clone the repo:
